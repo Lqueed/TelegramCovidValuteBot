@@ -34,7 +34,7 @@ if(yesterdayDate[0] == '0'):
 
 yesterdayCases = data['timelineitems'][0][yesterdayDate]['new_daily_cases']
 
-bot = telebot.TeleBot("1133417779:AAEpat31ypweSvo843n8FfkWzvDmkazGiBY");
+bot = telebot.TeleBot(" *** ");
 
 print('start')
 isAuto = 0
